@@ -1,5 +1,3 @@
-# Giới thiệu về tổ chức
-
 # Chào mừng đến với **ChickenAI** 🐣
 
 Chúng mình là một nhóm nhỏ nhưng đầy nhiệt huyết, đang cùng nhau xây dựng các công cụ **AI tự động hóa** để giúp mọi người – từ cá nhân đến doanh nghiệp – làm việc hiệu quả hơn, nhanh hơn và thông minh hơn.
